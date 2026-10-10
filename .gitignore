@@ -1,0 +1,4 @@
+~$*.xlsx
+*.inspect.ndjson
+__pycache__/
+*.pyc
