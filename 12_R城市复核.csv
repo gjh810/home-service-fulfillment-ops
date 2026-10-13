@@ -1,0 +1,4 @@
+"city","orders","on_time_visit","visit_rate","on_time_finish","finish_rate","complaints","exceptions","closed"
+"北京",252,206,0.8175,223,0.8849,14,61,32
+"武汉",193,149,0.772,162,0.8394,10,59,30
+"重庆",155,114,0.7355,121,0.7806,16,58,34
